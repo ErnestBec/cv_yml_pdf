@@ -1,0 +1,125 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ernesto Becerril Domínguez #[cite: 2]
+  headline: Ingeniero de Software | Desarrollador Frontend (React.js / Next.js) #[cite: 2]
+  location: Estado de México, México #[cite: 2]
+  email: ernestbecedom@gmail.com #[cite: 2]
+  photo:
+  phone: "+52 729 228 40 31" #[cite: 2]
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: ernesto-becerril-dominguez #[cite: 2]
+  custom_connections:
+  sections:
+    resumen:
+      - Desarrollador de software con 3 años de experiencia en el desarrollo de aplicaciones web, especializado en soluciones Frontend modernas. Dominio de lenguajes como JavaScript y Java. Experiencia en el desarrollo de interfaces dinámicas, responsivas y de alto rendimiento utilizando React.js, Next.js, LitElement y Tailwind CSS, priorizando la experiencia de usuario y la arquitectura modular. Experiencia en integración con APIs RESTful, control de versiones (Git y Bitbucket) y gestión ágil con Jira. Certificado como Scrum Developer y egresado de Ingeniería en Tecnologías de la Información y Comunicación. #[cite: 2]
+    experiencia:
+      - company: SYE Software #[cite: 2]
+        position: Ingeniero de Software #[cite: 2]
+        date:
+        start_date: 2025-01 #[cite: 2]
+        end_date: present #[cite: 2]
+        location: Ciudad de México #[cite: 2]
+        summary:
+        highlights:
+          - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, React.js, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad. #[cite: 2]
+          - Colaboración en la integración con servicios backend, aplicando conocimientos en Java, Spring Boot, Hibernate y PostgreSQL, apoyando en la construcción y consumo de APIs RESTful y en la gestión de datos. #[cite: 2]
+          - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3. #[cite: 2]
+          - Implementación de componentes reutilizables y mantenimiento de arquitectura frontend escalable. #[cite: 2]
+          - Integración de servicios backend mediante consumo de APIs REST. #[cite: 2]
+          - Apoyo en el desarrollo backend con Java (Spring Boot) para la creación de endpoints y lógica de negocio. #[cite: 2]
+          - Manejo de persistencia de datos con Hibernate (JPA) y consultas en PostgreSQL. #[cite: 2]
+          - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira. #[cite: 2]
+      - company: Softtek #[cite: 2]
+        position: Ingeniero de Software (Academia CELLS) #[cite: 2]
+        date:
+        start_date: 2025-08 #[cite: 2]
+        end_date: 2025-11 #[cite: 2]
+        location: Ciudad de México #[cite: 2]
+        summary:
+        highlights:
+          - Formación en Cells, enfocada en el desarrollo de habilidades técnicas sobre este framework y el dominio de diversas tecnologías Front-end. Incluyó programación de elementos y web components utilizando LitElement. #[cite: 2]
+          - Implementación de componentes web mediante paquetería LitElement. #[cite: 2]
+          - Inserción de tablas y listas de manera ordenada en HTML. #[cite: 2]
+          - Creación de barra de navegación mediante hipervínculos. #[cite: 2]
+          - Inserción de audio, video e imágenes. #[cite: 2]
+          - Inserción de scripts; generación de expresiones regulares y funciones. #[cite: 2]
+          - Estructura de una página web y generación de una página web responsiva. #[cite: 2]
+          - Inserción de estilos y generación de gráficos mediante el uso de CSS. #[cite: 2]
+          - Programación orientada a objetos usando JavaScript. #[cite: 2]
+      - company: Radaria Run #[cite: 2]
+        position: Ingeniero de Software #[cite: 2]
+        date:
+        start_date: 2024-07 #[cite: 2]
+        end_date: 2025-04 #[cite: 2]
+        location: Ciudad de México #[cite: 2]
+        summary:
+        highlights:
+          - Desarrollé una plataforma unificada de componentes y herramientas para la gestión de usuarios y membresías enfocada en runners, facilitando la relación entre coach y runner, así como la creación de rutas personalizadas usando Mapbox y ReactJS. #[cite: 2]
+          - Apoyé en el desarrollo de Back-end usando NodeJs para el sistema Radaria, mejorando la eficiencia de pagos, flexibilidad y escalabilidad para el uso en App móvil y página web. #[cite: 2]
+          - Diseñé e implementé la interfaz para la App móvil multiplataforma para IOS y Android de Radaria mediante React Native usando expo. #[cite: 2]
+          - Desarrollé la interfaz usando componentes de Tailwind CSS. #[cite: 2]
+          - Configuré servidores Linux usando NGINX y PM2 en Digital Ocean. #[cite: 2]
+      - company: Nuclea Solutions #[cite: 2]
+        position: Becario de Desarrollo #[cite: 2]
+        date:
+        start_date: 2022-08 #[cite: 2]
+        end_date: 2023-01 #[cite: 2]
+        location: Guadalajara, Jalisco #[cite: 2]
+        summary:
+        highlights:
+          - Apoyé en desarrollo de aplicaciones móviles NoCode usando herramientas como FlutterFlow. #[cite: 2]
+          - Participé en la toma de decisiones en cuanto a arquitectura y diseños de páginas web. #[cite: 2]
+          - Mantenimiento a sistemas existentes, usando como lenguaje principal Flutter. #[cite: 2]
+    educacion:
+      - institution: Instituto Tecnológico de Toluca #[cite: 2]
+        area: Ingeniería en Tecnologías de la Información y Comunicaciones #[cite: 2]
+        degree: Licenciatura #[cite: 2]
+        date:
+        start_date: 2019-08 #[cite: 2]
+        end_date: 2024-12 #[cite: 2]
+        location: Metepec, Estado de México #[cite: 2]
+        summary:
+        highlights:
+          - Titulado #[cite: 2]
+      - institution: CBTis 161 "Ignacio López Rayón" #[cite: 2]
+        area: Técnico en Informática #[cite: 2]
+        degree: Técnico #[cite: 2]
+        date:
+        start_date: 2016-08 #[cite: 2]
+        end_date: 2019-08 #[cite: 2]
+        location: San Pablo Autopan, Estado de México #[cite: 2]
+        summary:
+        highlights:
+    habilidades:
+      - label: Lenguajes
+        details: JavaScript, Java #[cite: 2]
+      - label: Frontend
+        details: React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components #[cite: 2]
+      - label: Bases de Datos
+        details: Mongo DB, MySQL, PostgreSQL #[cite: 2]
+      - label: Backend
+        details: NodeJs, Java, SpringBoot #[cite: 2]
+      - label: Móvil
+        details: React Native (Expo) #[cite: 2]
+      - label: DevOps
+        details: Git, Bitbucket, NGINX, Digital Ocean, PM2 #[cite: 2]
+      - label: Metodologías
+        details: Scrum (Scrum Developer Certified), Jira #[cite: 2]
+      - label: Sistemas Operativos
+        details: Linux (Intermedio), Windows, MACOS (Básico) #[cite: 2]
+      - label: Idiomas
+        details: Español (Nativo), Inglés técnico #[cite: 2]
+
+design:
+  theme: sb2nov
+
+locale:
+  language: spanish
+  phrases:
+    degree_with_area: DEGREE en AREA
+
+settings:
+  current_date: today
+  pdf_title: Ernesto Becerril Domínguez - CV Frontend
