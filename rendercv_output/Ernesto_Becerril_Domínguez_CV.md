@@ -2,25 +2,25 @@
 
 - Phone: +52 729 228 4031
 - Email: [ernestbecedom@gmail.com](mailto:ernestbecedom@gmail.com)
-- Location: Estado de México, México
+- Location: Estado de México, Toluca
 - LinkedIn: [ernesto-becerril-dominguez](https://linkedin.com/in/ernesto-becerril-dominguez)
 
 
 # Resumen
-Desarrollador de software con 3 años de experiencia en el desarrollo de aplicaciones web, enfocado en el desarrollo backend con medio año de experiencia práctica construyendo e integrando APIs RESTful y lógica de negocio con Java, Spring Boot, Hibernate y Node.js. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB) y control de versiones con Git y Bitbucket. Certificado como Scrum Developer, con experiencia en metodologías ágiles orientadas a la entrega continua de valor. Egresado de la carrera de Ingeniería en Tecnologías de la Información y Comunicación.
+Desarrollador de software con experiencia en el desarrollo de aplicaciones web, especializado en soluciones Frontend modernas. Dominio de lenguajes como JavaScript y Java. Experiencia en el desarrollo de interfaces dinámicas, responsivas y de alto rendimiento utilizando React.js, Next.js, LitElement y Tailwind CSS, priorizando la experiencia de usuario y la arquitectura modular. Experiencia en integración con APIs RESTful, control de versiones (Git y Bitbucket) y gestión ágil con Jira. Certificado como Scrum Developer y egresado de Ingeniería en Tecnologías de la Información y Comunicación.
 
 # Experiencia
 ## **Ingeniero de Software**
 
 *Ciudad de México*
 
-*Ene 2025 – presente*
+*Ene 2026 – presente*
 
 *SYE Software*
 
-- Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, React.js, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad.
+- Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, TypeScript, React, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad.
 
-- Colaboración en la integración con servicios backend, aplicando conocimientos en Java, Spring Boot, Hibernate y PostgreSQL, apoyando en la construcción y consumo de APIs RESTful y en la gestión de datos.
+- Colaboración en la integración con servicios backend mediante consumo SOAP.
 
 - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3.
 
@@ -28,15 +28,11 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 - Integración de servicios backend mediante consumo de APIs REST.
 
-- Apoyo en el desarrollo backend con Java (Spring Boot) para la creación de endpoints y lógica de negocio.
-
-- Manejo de persistencia de datos con Hibernate (JPA) y consultas en PostgreSQL.
-
-- Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
+- Colaboración en equipos ágiles utilizando herramientas como Git, GitLab, Jira y Taiga.
 
 
 
-## **Ingeniero de Software (Academia CELLS)**
+## **Ingeniero de Software (CELLS)**
 
 *Ciudad de México*
 
@@ -84,7 +80,7 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 
 
-## **Becario de Desarrollo**
+## **Ingeniero de Desarrollo**
 
 *Guadalajara, Jalisco*
 
@@ -124,7 +120,7 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 
 # Habilidades
-**Lenguajes:** JavaScript, Java
+**Lenguajes:** JavaScript, Java, TypeScript, Python
 
 **Frontend:** React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components
 
@@ -138,6 +134,6 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 **Metodologías:** Scrum (Scrum Developer Certified), Jira
 
-**Sistemas Operativos:** Linux (Intermedio), Windows, MACOS (Básico)
+**Sistemas Operativos:** Linux, Windows, MACOS
 
-**Idiomas:** Español (Nativo), Inglés técnico
+**Idiomas:** Español, Inglés A2

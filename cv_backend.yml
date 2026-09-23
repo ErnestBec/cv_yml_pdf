@@ -2,7 +2,7 @@
 cv:
   name: Ernesto Becerril Domínguez #[cite: 2]
   headline: Ingeniero de Software Backend | Java & Spring Boot #[cite: 2]
-  location: Estado de México, México #[cite: 2]
+  location: Estado de México, Toluca #[cite: 2]
   email: ernestbecedom@gmail.com #[cite: 2]
   photo:
   phone: "+52 729 228 40 31" #[cite: 2]
@@ -13,17 +13,17 @@ cv:
   custom_connections:
   sections:
     resumen:
-      - Desarrollador de software con 3 años de experiencia en el desarrollo de aplicaciones web, enfocado en el desarrollo backend con medio año de experiencia práctica construyendo e integrando APIs RESTful y lógica de negocio con Java, Spring Boot, Hibernate y Node.js. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB) y control de versiones con Git y Bitbucket. Certificado como Scrum Developer, con experiencia en metodologías ágiles orientadas a la entrega continua de valor. Egresado de la carrera de Ingeniería en Tecnologías de la Información y Comunicación. #[cite: 2]
+      - Desarrollador de software con experiencia en el desarrollo de aplicaciones web, enfocado en el desarrollo backend con experiencia práctica construyendo e integrando APIs RESTful y lógica de negocio con Java, Spring Boot, Hibernate y Node.js. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB) y control de versiones con Git y Bitbucket. Certificado como Scrum Developer, con experiencia en metodologías ágiles orientadas a la entrega continua de valor. Egresado de la carrera de Ingeniería en Tecnologías de la Información y Comunicación. #[cite: 2]
     experiencia:
       - company: SYE Software #[cite: 2]
         position: Ingeniero de Software #[cite: 2]
         date:
-        start_date: 2025-01 #[cite: 2]
+        start_date: 2026-01 #[cite: 2]
         end_date: present #[cite: 2]
         location: Ciudad de México #[cite: 2]
         summary:
         highlights:
-          - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, React.js, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad. #[cite: 2]
+          - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, TypeScript, React, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad. #[cite: 2]
           - Colaboración en la integración con servicios backend, aplicando conocimientos en Java, Spring Boot, Hibernate y PostgreSQL, apoyando en la construcción y consumo de APIs RESTful y en la gestión de datos. #[cite: 2]
           - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3. #[cite: 2]
           - Implementación de componentes reutilizables y mantenimiento de arquitectura frontend escalable. #[cite: 2]
@@ -32,7 +32,7 @@ cv:
           - Manejo de persistencia de datos con Hibernate (JPA) y consultas en PostgreSQL. #[cite: 2]
           - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira. #[cite: 2]
       - company: Softtek #[cite: 2]
-        position: Ingeniero de Software (Academia CELLS) #[cite: 2]
+        position: Ingeniero de Software (CELLS) #[cite: 2]
         date:
         start_date: 2025-08 #[cite: 2]
         end_date: 2025-11 #[cite: 2]
@@ -62,7 +62,7 @@ cv:
           - Desarrollé la interfaz usando componentes de Tailwind CSS. #[cite: 2]
           - Configuré servidores Linux usando NGINX y PM2 en Digital Ocean. #[cite: 2]
       - company: Nuclea Solutions #[cite: 2]
-        position: Becario de Desarrollo #[cite: 2]
+        position: Ingeniero de Desarrollo #[cite: 2]
         date:
         start_date: 2022-08 #[cite: 2]
         end_date: 2023-01 #[cite: 2]
@@ -94,7 +94,7 @@ cv:
         highlights:
     habilidades:
       - label: Lenguajes
-        details: JavaScript, Java #[cite: 2]
+        details: JavaScript, Java, TypeScript, Python #[cite: 2]
       - label: Frontend
         details: React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components #[cite: 2]
       - label: Bases de Datos
@@ -108,9 +108,9 @@ cv:
       - label: Metodologías
         details: Scrum (Scrum Developer Certified), Jira #[cite: 2]
       - label: Sistemas Operativos
-        details: Linux (Intermedio), Windows, MACOS (Básico) #[cite: 2]
+        details: Linux, Windows, MACOS #[cite: 2]
       - label: Idiomas
-        details: Español (Nativo), Inglés técnico #[cite: 2]
+        details: Español, Inglés A2 #[cite: 2]
 
 design:
   theme: sb2nov

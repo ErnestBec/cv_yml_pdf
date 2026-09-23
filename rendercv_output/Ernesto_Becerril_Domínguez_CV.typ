@@ -4,7 +4,7 @@
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Ernesto Becerril Domínguez",
-  title: "Ernesto Becerril Domínguez - CV Backend",
+  title: "Ernesto Becerril Domínguez - CV Frontend",
   footer: context { [#emph[Ernesto Becerril Domínguez -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Última actualización Sep 2026] ],
   locale-catalog-language: "es",
@@ -81,17 +81,17 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 3,
+    day: 14,
   ),
 )
 
 
 = Ernesto Becerril Domínguez
 
-  #headline([Ingeniero de Software Backend | Java & Spring Boot])
+  #headline([Ingeniero de Software | Desarrollador Frontend (React.js \/ Next.js)])
 
 #connections(
-  [Estado de México, México],
+  [Estado de México, Toluca],
   [#link("mailto:ernestbecedom@gmail.com", icon: false, if-underline: false, if-color: false)[ernestbecedom\@gmail.com]],
   [#link("tel:+52-729-228-4031", icon: false, if-underline: false, if-color: false)[729 228 4031]],
   [#link("https://linkedin.com/in/ernesto-becerril-dominguez", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/ernesto-becerril-dominguez]],
@@ -100,7 +100,7 @@
 
 == Resumen
 
-Desarrollador de software con 3 años de experiencia en el desarrollo de aplicaciones web, enfocado en el desarrollo backend con medio año de experiencia práctica construyendo e integrando APIs RESTful y lógica de negocio con Java, Spring Boot, Hibernate y Node.js. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB) y control de versiones con Git y Bitbucket. Certificado como Scrum Developer, con experiencia en metodologías ágiles orientadas a la entrega continua de valor. Egresado de la carrera de Ingeniería en Tecnologías de la Información y Comunicación.
+Desarrollador de software con experiencia en el desarrollo de aplicaciones web, especializado en soluciones Frontend modernas. Dominio de lenguajes como JavaScript y Java. Experiencia en el desarrollo de interfaces dinámicas, responsivas y de alto rendimiento utilizando React.js, Next.js, LitElement y Tailwind CSS, priorizando la experiencia de usuario y la arquitectura modular. Experiencia en integración con APIs RESTful, control de versiones (Git y Bitbucket) y gestión ágil con Jira. Certificado como Scrum Developer y egresado de Ingeniería en Tecnologías de la Información y Comunicación.
 
 == Experiencia
 
@@ -114,13 +114,13 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
   [
     #emph[Ciudad de México]
 
-    #emph[Ene 2025 – presente]
+    #emph[Ene 2026 – presente]
 
   ],
   main-column-second-row: [
-    - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, React.js, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad.
+    - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, TypeScript, React, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad.
 
-    - Colaboración en la integración con servicios backend, aplicando conocimientos en Java, Spring Boot, Hibernate y PostgreSQL, apoyando en la construcción y consumo de APIs RESTful y en la gestión de datos.
+    - Colaboración en la integración con servicios backend mediante consumo SOAP.
 
     - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3.
 
@@ -128,18 +128,14 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
     - Integración de servicios backend mediante consumo de APIs REST.
 
-    - Apoyo en el desarrollo backend con Java (Spring Boot) para la creación de endpoints y lógica de negocio.
-
-    - Manejo de persistencia de datos con Hibernate (JPA) y consultas en PostgreSQL.
-
-    - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
+    - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab, Jira y Taiga.
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Ingeniero de Software (Academia CELLS)]
+    #strong[Ingeniero de Software (CELLS)]
 
     #emph[Softtek]
 
@@ -201,7 +197,7 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 #regular-entry(
   [
-    #strong[Becario de Desarrollo]
+    #strong[Ingeniero de Desarrollo]
 
     #emph[Nuclea Solutions]
 
@@ -262,7 +258,7 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 == Habilidades
 
-#strong[Lenguajes:] JavaScript, Java
+#strong[Lenguajes:] JavaScript, Java, TypeScript, Python
 
 #strong[Frontend:] React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components
 
@@ -276,6 +272,6 @@ Desarrollador de software con 3 años de experiencia en el desarrollo de aplicac
 
 #strong[Metodologías:] Scrum (Scrum Developer Certified), Jira
 
-#strong[Sistemas Operativos:] Linux (Intermedio), Windows, MACOS (Básico)
+#strong[Sistemas Operativos:] Linux, Windows, MACOS
 
-#strong[Idiomas:] Español (Nativo), Inglés técnico
+#strong[Idiomas:] Español, Inglés A2
