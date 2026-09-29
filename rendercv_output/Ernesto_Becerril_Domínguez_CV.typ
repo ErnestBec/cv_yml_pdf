@@ -4,7 +4,7 @@
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Ernesto Becerril Domínguez",
-  title: "Ernesto Becerril Domínguez - CV Fullstack Node React",
+  title: "Ernesto Becerril Domínguez - CV Soporte TI Junior",
   footer: context { [#emph[Ernesto Becerril Domínguez -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Última actualización Sep 2026] ],
   locale-catalog-language: "es",
@@ -81,14 +81,14 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 23,
+    day: 29,
   ),
 )
 
 
 = Ernesto Becerril Domínguez
 
-  #headline([Ingeniero de Software Full-Stack | Node.js & React.js])
+  #headline([Ingeniero de Software | Soporte TI Junior])
 
 #connections(
   [Estado de México, Toluca],
@@ -100,13 +100,38 @@
 
 == Resumen
 
-Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfocado en desarrollo Full-Stack utilizando Node.js y React.js. Experiencia sólida construyendo e integrando APIs RESTful, arquitectura modular e interfaces dinámicas y responsivas con JavaScript, TypeScript y Tailwind CSS. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB), control de versiones con Git\/Bitbucket y despliegue de aplicaciones en servidores Linux (NGINX, Digital Ocean, PM2). Certificado como Scrum Developer y orientado a la entrega de código limpio y seguro.
+Ingeniero en Tecnologías de la Información con formación en desarrollo de software y experiencia básica en soporte técnico a usuarios finales. Cuento con bases sólidas en lógica de programación, gestión de bases de datos, administración básica de sistemas Linux y diagnóstico de software\/hardware. Apasionado por la ciberseguridad, actualmente busco posicionarme en un rol de Soporte TI \/ Help Desk como paso estratégico para consolidar mis conocimientos en infraestructura, redes y protección de sistemas corporativos.
 
 == Experiencia
 
 #regular-entry(
   [
-    #strong[Ingeniero de Software Full-Stack]
+    #strong[Auxiliar de Soporte TI y Mantenimiento]
+
+    #emph[Sistema DIF]
+
+  ],
+  [
+    #emph[Estado de México]
+
+    #emph[Feb 2023 – Ago 2023]
+
+  ],
+  main-column-second-row: [
+    - Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales en incidencias de cómputo y paquetería.
+
+    - Apoyo en mantenimiento preventivo y correctivo básico de equipo de cómputo, impresoras y periféricos.
+
+    - Verificación y diagnóstico básico de conectividad a red local (cableado estructurado, pruebas de ping, conexión de impresoras en red).
+
+    - Instalación, actualización de software corporativo y respaldo de información de usuarios.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Ingeniero de Software \/ Diagnóstico de Sistemas]
 
     #emph[SYE Software]
 
@@ -118,22 +143,18 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
   ],
   main-column-second-row: [
-    - Desarrollo full-stack de aplicaciones web utilizando JavaScript, TypeScript, React, HTML y CSS, asegurando alto rendimiento y calidad de código.
+    - Depuración y resolución de errores en entornos web y servicios REST.
 
-    - Integración con servicios backend mediante la construcción y consumo de APIs RESTful para la gestión eficiente de datos.
+    - Consulta y manipulación de bases de datos PostgreSQL para solución de incidencias e integridad de datos.
 
-    - Desarrollo de interfaces dinámicas, modulares y responsivas con React.js, HTML5 y CSS3 priorizando la experiencia de usuario.
-
-    - Manejo de persistencia de datos y consultas en PostgreSQL.
-
-    - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
+    - Manejo de entorno de comandos Linux y control de versiones con Git\/GitLab.
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Ingeniero de Software Full-Stack]
+    #strong[Ingeniero de Software]
 
     #emph[Radaria Run]
 
@@ -145,13 +166,11 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
   ],
   main-column-second-row: [
-    - Desarrollo de arquitectura Back-end utilizando Node.js, optimizando la eficiencia de pagos, escalabilidad y flexibilidad del sistema para web y móvil.
+    - Configuración básica y despliegue de servidores Linux (NGINX y PM2) en servicios Cloud (Digital Ocean).
 
-    - Creación de plataforma web frontend unificada utilizando React.js y componentes de Tailwind CSS, incluyendo integración con Mapbox.
+    - Administración y consulta de bases de datos MySQL y servidores Node.js.
 
-    - Diseñé e implementé la interfaz para la App móvil multiplataforma (iOS y Android) mediante React Native con Expo.
-
-    - Configuración y despliegue de servidores Linux utilizando NGINX y PM2 en Digital Ocean.
+    - Atención y resolución de fallas reportadas por usuarios en la plataforma.
 
   ],
 )
@@ -170,30 +189,9 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
   ],
   main-column-second-row: [
-    - Desarrollo frontend y creación de componentes web reutilizables utilizando LitElement, JavaScript y HTML\/CSS responsivo.
+    - Automatización de tareas e implementación de scripts y lógica con JavaScript.
 
-    - Aplicación de programación orientada a objetos (POO), funciones complejas y expresiones regulares en JavaScript.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Ingeniero de Desarrollo]
-
-    #emph[Nuclea Solutions]
-
-  ],
-  [
-    #emph[Guadalajara, Jalisco]
-
-    #emph[Ago 2022 – Ene 2023]
-
-  ],
-  main-column-second-row: [
-    - Participación en la toma de decisiones de arquitectura y diseño de páginas y aplicaciones web.
-
-    - Mantenimiento y optimización de sistemas existentes usando tecnologías móviles y herramientas NoCode.
+    - Mantenimiento y desarrollo de componentes modulares con estándares de calidad.
 
   ],
 )
@@ -238,18 +236,12 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
 == Habilidades
 
-#strong[Lenguajes:] JavaScript (ES6+), TypeScript, Java, Python
+#strong[Soporte & Help Desk:] Atención a usuarios (L1), Diagnóstico básico de hardware\/software, Mantenimiento preventivo, Formateo e instalación de SO
 
-#strong[Backend:] Node.js, APIs RESTful, Java, Spring Boot
+#strong[Sistemas Operativos:] Windows, Linux\/Ubuntu (Línea de comandos CLI básica), macOS
 
-#strong[Frontend:] React.js, Next.js, LitElement, Tailwind CSS, HTML5\/CSS3, Web Components
+#strong[Redes (Conceptos Básicos):] Conceptos LAN\/WAN, Direccionamiento IP, Configuración básica de periféricos en red, SSH
 
-#strong[Bases de Datos:] PostgreSQL, MongoDB, MySQL
+#strong[Bases de Datos & Herramientas:] PostgreSQL, MySQL, SQL Server (Restauración de archivos .mdf y scripts), DBeaver, Git
 
-#strong[Infraestructura & DevOps:] Linux, NGINX, PM2, Digital Ocean, Git, Bitbucket, GitLab
-
-#strong[Móvil:] React Native (Expo)
-
-#strong[Metodologías:] Scrum (Scrum Developer Certified), Jira
-
-#strong[Idiomas:] Español (Nativo), Inglés A2
+#strong[Idiomas:] Español (Nativo), Inglés A2 (Técnico)

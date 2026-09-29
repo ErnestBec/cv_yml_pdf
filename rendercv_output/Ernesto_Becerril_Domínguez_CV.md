@@ -7,10 +7,28 @@
 
 
 # Resumen
-Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfocado en desarrollo Full-Stack utilizando Node.js y React.js. Experiencia sólida construyendo e integrando APIs RESTful, arquitectura modular e interfaces dinámicas y responsivas con JavaScript, TypeScript y Tailwind CSS. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB), control de versiones con Git/Bitbucket y despliegue de aplicaciones en servidores Linux (NGINX, Digital Ocean, PM2). Certificado como Scrum Developer y orientado a la entrega de código limpio y seguro.
+Ingeniero en Tecnologías de la Información con formación en desarrollo de software y experiencia básica en soporte técnico a usuarios finales. Cuento con bases sólidas en lógica de programación, gestión de bases de datos, administración básica de sistemas Linux y diagnóstico de software/hardware. Apasionado por la ciberseguridad, actualmente busco posicionarme en un rol de Soporte TI / Help Desk como paso estratégico para consolidar mis conocimientos en infraestructura, redes y protección de sistemas corporativos.
 
 # Experiencia
-## **Ingeniero de Software Full-Stack**
+## **Auxiliar de Soporte TI y Mantenimiento**
+
+*Estado de México*
+
+*Feb 2023 – Ago 2023*
+
+*Sistema DIF*
+
+- Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales en incidencias de cómputo y paquetería.
+
+- Apoyo en mantenimiento preventivo y correctivo básico de equipo de cómputo, impresoras y periféricos.
+
+- Verificación y diagnóstico básico de conectividad a red local (cableado estructurado, pruebas de ping, conexión de impresoras en red).
+
+- Instalación, actualización de software corporativo y respaldo de información de usuarios.
+
+
+
+## **Ingeniero de Software / Diagnóstico de Sistemas**
 
 *Ciudad de México*
 
@@ -18,19 +36,15 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
 *SYE Software*
 
-- Desarrollo full-stack de aplicaciones web utilizando JavaScript, TypeScript, React, HTML y CSS, asegurando alto rendimiento y calidad de código.
+- Depuración y resolución de errores en entornos web y servicios REST.
 
-- Integración con servicios backend mediante la construcción y consumo de APIs RESTful para la gestión eficiente de datos.
+- Consulta y manipulación de bases de datos PostgreSQL para solución de incidencias e integridad de datos.
 
-- Desarrollo de interfaces dinámicas, modulares y responsivas con React.js, HTML5 y CSS3 priorizando la experiencia de usuario.
-
-- Manejo de persistencia de datos y consultas en PostgreSQL.
-
-- Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
+- Manejo de entorno de comandos Linux y control de versiones con Git/GitLab.
 
 
 
-## **Ingeniero de Software Full-Stack**
+## **Ingeniero de Software**
 
 *Ciudad de México*
 
@@ -38,13 +52,11 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
 *Radaria Run*
 
-- Desarrollo de arquitectura Back-end utilizando Node.js, optimizando la eficiencia de pagos, escalabilidad y flexibilidad del sistema para web y móvil.
+- Configuración básica y despliegue de servidores Linux (NGINX y PM2) en servicios Cloud (Digital Ocean).
 
-- Creación de plataforma web frontend unificada utilizando React.js y componentes de Tailwind CSS, incluyendo integración con Mapbox.
+- Administración y consulta de bases de datos MySQL y servidores Node.js.
 
-- Diseñé e implementé la interfaz para la App móvil multiplataforma (iOS y Android) mediante React Native con Expo.
-
-- Configuración y despliegue de servidores Linux utilizando NGINX y PM2 en Digital Ocean.
+- Atención y resolución de fallas reportadas por usuarios en la plataforma.
 
 
 
@@ -56,23 +68,9 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
 *Softtek*
 
-- Desarrollo frontend y creación de componentes web reutilizables utilizando LitElement, JavaScript y HTML/CSS responsivo.
+- Automatización de tareas e implementación de scripts y lógica con JavaScript.
 
-- Aplicación de programación orientada a objetos (POO), funciones complejas y expresiones regulares en JavaScript.
-
-
-
-## **Ingeniero de Desarrollo**
-
-*Guadalajara, Jalisco*
-
-*Ago 2022 – Ene 2023*
-
-*Nuclea Solutions*
-
-- Participación en la toma de decisiones de arquitectura y diseño de páginas y aplicaciones web.
-
-- Mantenimiento y optimización de sistemas existentes usando tecnologías móviles y herramientas NoCode.
+- Mantenimiento y desarrollo de componentes modulares con estándares de calidad.
 
 
 
@@ -100,18 +98,12 @@ Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfo
 
 
 # Habilidades
-**Lenguajes:** JavaScript (ES6+), TypeScript, Java, Python
+**Soporte & Help Desk:** Atención a usuarios (L1), Diagnóstico básico de hardware/software, Mantenimiento preventivo, Formateo e instalación de SO
 
-**Backend:** Node.js, APIs RESTful, Java, Spring Boot
+**Sistemas Operativos:** Windows, Linux/Ubuntu (Línea de comandos CLI básica), macOS
 
-**Frontend:** React.js, Next.js, LitElement, Tailwind CSS, HTML5/CSS3, Web Components
+**Redes (Conceptos Básicos):** Conceptos LAN/WAN, Direccionamiento IP, Configuración básica de periféricos en red, SSH
 
-**Bases de Datos:** PostgreSQL, MongoDB, MySQL
+**Bases de Datos & Herramientas:** PostgreSQL, MySQL, SQL Server (Restauración de archivos .mdf y scripts), DBeaver, Git
 
-**Infraestructura & DevOps:** Linux, NGINX, PM2, Digital Ocean, Git, Bitbucket, GitLab
-
-**Móvil:** React Native (Expo)
-
-**Metodologías:** Scrum (Scrum Developer Certified), Jira
-
-**Idiomas:** Español (Nativo), Inglés A2
+**Idiomas:** Español (Nativo), Inglés A2 (Técnico)

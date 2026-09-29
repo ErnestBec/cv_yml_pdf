@@ -1,0 +1,104 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ernesto Becerril Domínguez
+  headline: Ingeniero de Software | Soporte TI Junior
+  location: Estado de México, Toluca
+  email: ernestbecedom@gmail.com
+  photo:
+  phone: "+52 729 228 40 31"
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: ernesto-becerril-dominguez
+  custom_connections:
+  sections:
+    resumen:
+      - Ingeniero en Tecnologías de la Información con formación en desarrollo de software y experiencia básica en soporte técnico a usuarios finales. Cuento con bases sólidas en lógica de programación, gestión de bases de datos, administración básica de sistemas Linux y diagnóstico de software/hardware. Apasionado por la ciberseguridad, actualmente busco posicionarme en un rol de Soporte TI / Help Desk como paso estratégico para consolidar mis conocimientos en infraestructura, redes y protección de sistemas corporativos.
+    experiencia:
+      - company: Sistema DIF
+        position: Auxiliar de Soporte TI y Mantenimiento
+        date:
+        start_date: 2023-02
+        end_date: 2023-08
+        location: Estado de México
+        summary:
+        highlights:
+          - Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales en incidencias de cómputo y paquetería.
+          - Apoyo en mantenimiento preventivo y correctivo básico de equipo de cómputo, impresoras y periféricos.
+          - Verificación y diagnóstico básico de conectividad a red local (cableado estructurado, pruebas de ping, conexión de impresoras en red).
+          - Instalación, actualización de software corporativo y respaldo de información de usuarios.
+      - company: SYE Software
+        position: Ingeniero de Software / Diagnóstico de Sistemas
+        date:
+        start_date: 2026-01
+        end_date: present
+        location: Ciudad de México
+        summary:
+        highlights:
+          - Depuración y resolución de errores en entornos web y servicios REST.
+          - Consulta y manipulación de bases de datos PostgreSQL para solución de incidencias e integridad de datos.
+          - Manejo de entorno de comandos Linux y control de versiones con Git/GitLab.
+      - company: Radaria Run
+        position: Ingeniero de Software
+        date:
+        start_date: 2024-07
+        end_date: 2025-04
+        location: Ciudad de México
+        summary:
+        highlights:
+          - Configuración básica y despliegue de servidores Linux (NGINX y PM2) en servicios Cloud (Digital Ocean).
+          - Administración y consulta de bases de datos MySQL y servidores Node.js.
+          - Atención y resolución de fallas reportadas por usuarios en la plataforma.
+      - company: Softtek
+        position: Ingeniero de Software (CELLS)
+        date:
+        start_date: 2025-08
+        end_date: 2025-11
+        location: Ciudad de México
+        summary:
+        highlights:
+          - Automatización de tareas e implementación de scripts y lógica con JavaScript.
+          - Mantenimiento y desarrollo de componentes modulares con estándares de calidad.
+    educacion:
+      - institution: Instituto Tecnológico de Toluca
+        area: Ingeniería en Tecnologías de la Información y Comunicaciones
+        degree: Licenciatura
+        date:
+        start_date: 2019-08
+        end_date: 2024-12
+        location: Metepec, Estado de México
+        summary:
+        highlights:
+          - Titulado
+      - institution: CBTis 161 "Ignacio López Rayón"
+        area: Técnico en Informática
+        degree: Técnico
+        date:
+        start_date: 2016-08
+        end_date: 2019-08
+        location: San Pablo Autopan, Estado de México
+        summary:
+        highlights:
+    habilidades:
+      - label: Soporte & Help Desk
+        details: Atención a usuarios (L1), Diagnóstico básico de hardware/software, Mantenimiento preventivo, Formateo e instalación de SO
+      - label: Sistemas Operativos
+        details: Windows, Linux/Ubuntu (Línea de comandos CLI básica), macOS
+      - label: Redes (Conceptos Básicos)
+        details: Conceptos LAN/WAN, Direccionamiento IP, Configuración básica de periféricos en red, SSH
+      - label: Bases de Datos & Herramientas
+        details: PostgreSQL, MySQL, SQL Server (Restauración de archivos .mdf y scripts), DBeaver, Git
+      - label: Idiomas
+        details: Español (Nativo), Inglés A2 (Técnico)
+
+design:
+  theme: sb2nov
+
+locale:
+  language: spanish
+  phrases:
+    degree_with_area: DEGREE en AREA
+
+settings:
+  current_date: today
+  pdf_title: Ernesto Becerril Domínguez - CV Soporte TI Junior
