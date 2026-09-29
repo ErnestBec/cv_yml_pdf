@@ -7,10 +7,10 @@
 
 
 # Resumen
-Desarrollador de software con experiencia en el desarrollo de aplicaciones web, especializado en soluciones Frontend modernas. Dominio de lenguajes como JavaScript y Java. Experiencia en el desarrollo de interfaces dinámicas, responsivas y de alto rendimiento utilizando React.js, Next.js, LitElement y Tailwind CSS, priorizando la experiencia de usuario y la arquitectura modular. Experiencia en integración con APIs RESTful, control de versiones (Git y Bitbucket) y gestión ágil con Jira. Certificado como Scrum Developer y egresado de Ingeniería en Tecnologías de la Información y Comunicación.
+Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfocado en desarrollo Full-Stack utilizando Node.js y React.js. Experiencia sólida construyendo e integrando APIs RESTful, arquitectura modular e interfaces dinámicas y responsivas con JavaScript, TypeScript y Tailwind CSS. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB), control de versiones con Git/Bitbucket y despliegue de aplicaciones en servidores Linux (NGINX, Digital Ocean, PM2). Certificado como Scrum Developer y orientado a la entrega de código limpio y seguro.
 
 # Experiencia
-## **Ingeniero de Software**
+## **Ingeniero de Software Full-Stack**
 
 *Ciudad de México*
 
@@ -18,17 +18,33 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
 *SYE Software*
 
-- Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, TypeScript, React, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad.
+- Desarrollo full-stack de aplicaciones web utilizando JavaScript, TypeScript, React, HTML y CSS, asegurando alto rendimiento y calidad de código.
 
-- Colaboración en la integración con servicios backend mediante consumo SOAP.
+- Integración con servicios backend mediante la construcción y consumo de APIs RESTful para la gestión eficiente de datos.
 
-- Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3.
+- Desarrollo de interfaces dinámicas, modulares y responsivas con React.js, HTML5 y CSS3 priorizando la experiencia de usuario.
 
-- Implementación de componentes reutilizables y mantenimiento de arquitectura frontend escalable.
+- Manejo de persistencia de datos y consultas en PostgreSQL.
 
-- Integración de servicios backend mediante consumo de APIs REST.
+- Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
 
-- Colaboración en equipos ágiles utilizando herramientas como Git, GitLab, Jira y Taiga.
+
+
+## **Ingeniero de Software Full-Stack**
+
+*Ciudad de México*
+
+*Jul 2024 – Abr 2025*
+
+*Radaria Run*
+
+- Desarrollo de arquitectura Back-end utilizando Node.js, optimizando la eficiencia de pagos, escalabilidad y flexibilidad del sistema para web y móvil.
+
+- Creación de plataforma web frontend unificada utilizando React.js y componentes de Tailwind CSS, incluyendo integración con Mapbox.
+
+- Diseñé e implementé la interfaz para la App móvil multiplataforma (iOS y Android) mediante React Native con Expo.
+
+- Configuración y despliegue de servidores Linux utilizando NGINX y PM2 en Digital Ocean.
 
 
 
@@ -40,43 +56,9 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
 *Softtek*
 
-- Formación en Cells, enfocada en el desarrollo de habilidades técnicas sobre este framework y el dominio de diversas tecnologías Front-end. Incluyó programación de elementos y web components utilizando LitElement.
+- Desarrollo frontend y creación de componentes web reutilizables utilizando LitElement, JavaScript y HTML/CSS responsivo.
 
-- Implementación de componentes web mediante paquetería LitElement.
-
-- Inserción de tablas y listas de manera ordenada en HTML.
-
-- Creación de barra de navegación mediante hipervínculos.
-
-- Inserción de audio, video e imágenes.
-
-- Inserción de scripts; generación de expresiones regulares y funciones.
-
-- Estructura de una página web y generación de una página web responsiva.
-
-- Inserción de estilos y generación de gráficos mediante el uso de CSS.
-
-- Programación orientada a objetos usando JavaScript.
-
-
-
-## **Ingeniero de Software**
-
-*Ciudad de México*
-
-*Jul 2024 – Abr 2025*
-
-*Radaria Run*
-
-- Desarrollé una plataforma unificada de componentes y herramientas para la gestión de usuarios y membresías enfocada en runners, facilitando la relación entre coach y runner, así como la creación de rutas personalizadas usando Mapbox y ReactJS.
-
-- Apoyé en el desarrollo de Back-end usando NodeJs para el sistema Radaria, mejorando la eficiencia de pagos, flexibilidad y escalabilidad para el uso en App móvil y página web.
-
-- Diseñé e implementé la interfaz para la App móvil multiplataforma para IOS y Android de Radaria mediante React Native usando expo.
-
-- Desarrollé la interfaz usando componentes de Tailwind CSS.
-
-- Configuré servidores Linux usando NGINX y PM2 en Digital Ocean.
+- Aplicación de programación orientada a objetos (POO), funciones complejas y expresiones regulares en JavaScript.
 
 
 
@@ -88,11 +70,9 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
 *Nuclea Solutions*
 
-- Apoyé en desarrollo de aplicaciones móviles NoCode usando herramientas como FlutterFlow.
+- Participación en la toma de decisiones de arquitectura y diseño de páginas y aplicaciones web.
 
-- Participé en la toma de decisiones en cuanto a arquitectura y diseños de páginas web.
-
-- Mantenimiento a sistemas existentes, usando como lenguaje principal Flutter.
+- Mantenimiento y optimización de sistemas existentes usando tecnologías móviles y herramientas NoCode.
 
 
 
@@ -120,20 +100,18 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
 
 # Habilidades
-**Lenguajes:** JavaScript, Java, TypeScript, Python
+**Lenguajes:** JavaScript (ES6+), TypeScript, Java, Python
 
-**Frontend:** React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components
+**Backend:** Node.js, APIs RESTful, Java, Spring Boot
 
-**Bases de Datos:** Mongo DB, MySQL, PostgreSQL
+**Frontend:** React.js, Next.js, LitElement, Tailwind CSS, HTML5/CSS3, Web Components
 
-**Backend:** NodeJs, Java, SpringBoot
+**Bases de Datos:** PostgreSQL, MongoDB, MySQL
+
+**Infraestructura & DevOps:** Linux, NGINX, PM2, Digital Ocean, Git, Bitbucket, GitLab
 
 **Móvil:** React Native (Expo)
 
-**DevOps:** Git, Bitbucket, NGINX, Digital Ocean, PM2
-
 **Metodologías:** Scrum (Scrum Developer Certified), Jira
 
-**Sistemas Operativos:** Linux, Windows, MACOS
-
-**Idiomas:** Español, Inglés A2
+**Idiomas:** Español (Nativo), Inglés A2
