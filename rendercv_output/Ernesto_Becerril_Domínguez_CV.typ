@@ -4,7 +4,7 @@
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Ernesto Becerril Domínguez",
-  title: "Ernesto Becerril Domínguez - CV Soporte TI Junior",
+  title: "Ernesto Becerril Domínguez - CV Ciberinteligencia Jr",
   footer: context { [#emph[Ernesto Becerril Domínguez -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Última actualización Sep 2026] ],
   locale-catalog-language: "es",
@@ -81,14 +81,14 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 29,
+    day: 30,
   ),
 )
 
 
 = Ernesto Becerril Domínguez
 
-  #headline([Ingeniero de Software | Soporte TI Junior])
+  #headline([Ingeniero en TIC | Aspirante a Analista de Ciberinteligencia Jr])
 
 #connections(
   [Estado de México, Toluca],
@@ -100,38 +100,13 @@
 
 == Resumen
 
-Ingeniero en Tecnologías de la Información con formación en desarrollo de software y experiencia básica en soporte técnico a usuarios finales. Cuento con bases sólidas en lógica de programación, gestión de bases de datos, administración básica de sistemas Linux y diagnóstico de software\/hardware. Apasionado por la ciberseguridad, actualmente busco posicionarme en un rol de Soporte TI \/ Help Desk como paso estratégico para consolidar mis conocimientos en infraestructura, redes y protección de sistemas corporativos.
+Ingeniero en Tecnologías de la Información con trayectoria en desarrollo de software y soporte técnico básico. Cuento con conocimientos fundamentales en seguridad informática, funcionamiento de redes e Internet, así como nociones de investigación en fuentes abiertas (OSINT). Poseo pensamiento lógico-analítico, rigurosidad en la revisión de datos y facilidad para la síntesis y documentación de hallazgos. Motivado por aplicar mis bases técnicas en el monitoreo de sitios web, identificación de amenazas y análisis de ciberinteligencia.
 
 == Experiencia
 
 #regular-entry(
   [
-    #strong[Auxiliar de Soporte TI y Mantenimiento]
-
-    #emph[Sistema DIF]
-
-  ],
-  [
-    #emph[Estado de México]
-
-    #emph[Feb 2023 – Ago 2023]
-
-  ],
-  main-column-second-row: [
-    - Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales en incidencias de cómputo y paquetería.
-
-    - Apoyo en mantenimiento preventivo y correctivo básico de equipo de cómputo, impresoras y periféricos.
-
-    - Verificación y diagnóstico básico de conectividad a red local (cableado estructurado, pruebas de ping, conexión de impresoras en red).
-
-    - Instalación, actualización de software corporativo y respaldo de información de usuarios.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Ingeniero de Software \/ Diagnóstico de Sistemas]
+    #strong[Ingeniero de Software]
 
     #emph[SYE Software]
 
@@ -143,34 +118,15 @@ Ingeniero en Tecnologías de la Información con formación en desarrollo de sof
 
   ],
   main-column-second-row: [
-    - Depuración y resolución de errores en entornos web y servicios REST.
+    - Participación en el desarrollo de sistemas web con JavaScript, TypeScript, React, HTML y CSS.
 
-    - Consulta y manipulación de bases de datos PostgreSQL para solución de incidencias e integridad de datos.
+    - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3.
 
-    - Manejo de entorno de comandos Linux y control de versiones con Git\/GitLab.
+    - Integración de servicios mediante consumo de APIs REST.
 
-  ],
-)
+    - Consulta y manejo de datos en PostgreSQL.
 
-#regular-entry(
-  [
-    #strong[Ingeniero de Software]
-
-    #emph[Radaria Run]
-
-  ],
-  [
-    #emph[Ciudad de México]
-
-    #emph[Jul 2024 – Abr 2025]
-
-  ],
-  main-column-second-row: [
-    - Configuración básica y despliegue de servidores Linux (NGINX y PM2) en servicios Cloud (Digital Ocean).
-
-    - Administración y consulta de bases de datos MySQL y servidores Node.js.
-
-    - Atención y resolución de fallas reportadas por usuarios en la plataforma.
+    - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
 
   ],
 )
@@ -189,9 +145,86 @@ Ingeniero en Tecnologías de la Información con formación en desarrollo de sof
 
   ],
   main-column-second-row: [
-    - Automatización de tareas e implementación de scripts y lógica con JavaScript.
+    - Implementación de componentes web mediante paquetería LitElement.
 
-    - Mantenimiento y desarrollo de componentes modulares con estándares de calidad.
+    - Generación de funciones y uso de expresiones regulares (Regex) en JavaScript.
+
+    - Estructura y maquetación de páginas web responsivas mediante el uso de CSS y HTML.
+
+    - Inserción de tablas, listas, audio, video e hipervínculos de manera ordenada.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Ingeniero de Software]
+
+    #emph[Radaria Run]
+
+  ],
+  [
+    #emph[Ciudad de México]
+
+    #emph[Jul 2024 – Abr 2025]
+
+  ],
+  main-column-second-row: [
+    - Desarrollé una plataforma unificada para la gestión de usuarios usando ReactJS y Mapbox.
+
+    - Apoyé en el desarrollo de Back-end usando NodeJs para el sistema web y móvil.
+
+    - Diseñé e implementé la interfaz móvil para iOS y Android mediante React Native (Expo) y Tailwind CSS.
+
+    - Configuración básica de servidores Linux usando NGINX y PM2 en Digital Ocean.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Auxiliar de Soporte TI]
+
+    #emph[Sistema DIF]
+
+  ],
+  [
+    #emph[Estado de México]
+
+    #emph[Feb 2023 – Ago 2023]
+
+  ],
+  main-column-second-row: [
+    - Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales.
+
+    - Mantenimiento preventivo y correctivo básico de equipo de cómputo e impresoras.
+
+    - Verificación básica de conectividad a red local (LAN, pruebas de ping, conexión de periféricos).
+
+    - Instalación de software corporativo y respaldo de información de usuarios.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Ingeniero de Desarrollo]
+
+    #emph[Nuclea Solutions]
+
+  ],
+  [
+    #emph[Guadalajara, Jalisco]
+
+    #emph[Ago 2022 – Ene 2023]
+
+  ],
+  main-column-second-row: [
+    - Apoyé en desarrollo de aplicaciones móviles NoCode usando herramientas como FlutterFlow.
+
+    - Participé en la toma de decisiones en cuanto a arquitectura y diseños de páginas web.
+
+    - Mantenimiento a sistemas existentes usando Flutter.
 
   ],
 )
@@ -236,12 +269,10 @@ Ingeniero en Tecnologías de la Información con formación en desarrollo de sof
 
 == Habilidades
 
-#strong[Soporte & Help Desk:] Atención a usuarios (L1), Diagnóstico básico de hardware\/software, Mantenimiento preventivo, Formateo e instalación de SO
+#strong[Fundamentos Técnicos:] Nociones de Seguridad de la Información, Protocolos de Internet (HTTP\/S, DNS, Direccionamiento IP), Búsqueda de información (OSINT), Inspección de tráfico web
 
-#strong[Sistemas Operativos:] Windows, Linux\/Ubuntu (Línea de comandos CLI básica), macOS
+#strong[Competencias Profesionales:] Análisis de datos e información, Redacción de informes y reportes técnicos, Rigurosidad y atención al detalle, Comunicación asertiva
 
-#strong[Redes (Conceptos Básicos):] Conceptos LAN\/WAN, Direccionamiento IP, Configuración básica de periféricos en red, SSH
+#strong[Entornos & Herramientas:] Linux CLI (Básico), Windows, PostgreSQL, MySQL, JavaScript, Python (Básico\/Scripting), Git, DBeaver, Jira
 
-#strong[Bases de Datos & Herramientas:] PostgreSQL, MySQL, SQL Server (Restauración de archivos .mdf y scripts), DBeaver, Git
-
-#strong[Idiomas:] Español (Nativo), Inglés A2 (Técnico)
+#strong[Idiomas:] Español (Nativo), Inglés A2 (Lectura técnica)
