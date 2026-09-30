@@ -1,0 +1,118 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ernesto Becerril Domínguez
+  headline: Ingeniero en TIC | Aspirante a Analista de Ciberinteligencia Jr
+  location: Estado de México, Toluca
+  email: ernestbecedom@gmail.com
+  photo:
+  phone: "+52 729 228 40 31"
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: ernesto-becerril-dominguez
+  custom_connections:
+  sections:
+    resumen:
+      - Ingeniero en Tecnologías de la Información con trayectoria en desarrollo de software y soporte técnico básico. Cuento con conocimientos fundamentales en seguridad informática, funcionamiento de redes e Internet, así como nociones de investigación en fuentes abiertas (OSINT). Poseo pensamiento lógico-analítico, rigurosidad en la revisión de datos y facilidad para la síntesis y documentación de hallazgos. Motivado por aplicar mis bases técnicas en el monitoreo de sitios web, identificación de amenazas y análisis de ciberinteligencia.
+    experiencia:
+      - company: SYE Software
+        position: Ingeniero de Software
+        date:
+        start_date: 2026-01
+        end_date: present
+        location: Ciudad de México
+        summary:
+        highlights:
+          - Participación en el desarrollo de sistemas web con JavaScript, TypeScript, React, HTML y CSS.
+          - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3.
+          - Integración de servicios mediante consumo de APIs REST.
+          - Consulta y manejo de datos en PostgreSQL.
+          - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
+      - company: Softtek
+        position: Ingeniero de Software (CELLS)
+        date:
+        start_date: 2025-08
+        end_date: 2025-11
+        location: Ciudad de México
+        summary:
+        highlights:
+          - Implementación de componentes web mediante paquetería LitElement.
+          - Generación de funciones y uso de expresiones regulares (Regex) en JavaScript.
+          - Estructura y maquetación de páginas web responsivas mediante el uso de CSS y HTML.
+          - Inserción de tablas, listas, audio, video e hipervínculos de manera ordenada.
+      - company: Radaria Run
+        position: Ingeniero de Software
+        date:
+        start_date: 2024-07
+        end_date: 2025-04
+        location: Ciudad de México
+        summary:
+        highlights:
+          - Desarrollé una plataforma unificada para la gestión de usuarios usando ReactJS y Mapbox.
+          - Apoyé en el desarrollo de Back-end usando NodeJs para el sistema web y móvil.
+          - Diseñé e implementé la interfaz móvil para iOS y Android mediante React Native (Expo) y Tailwind CSS.
+          - Configuración básica de servidores Linux usando NGINX y PM2 en Digital Ocean.
+      - company: Sistema DIF
+        position: Auxiliar de Soporte TI
+        date:
+        start_date: 2023-02
+        end_date: 2023-08
+        location: Estado de México
+        summary:
+        highlights:
+          - Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales.
+          - Mantenimiento preventivo y correctivo básico de equipo de cómputo e impresoras.
+          - Verificación básica de conectividad a red local (LAN, pruebas de ping, conexión de periféricos).
+          - Instalación de software corporativo y respaldo de información de usuarios.
+      - company: Nuclea Solutions
+        position: Ingeniero de Desarrollo
+        date:
+        start_date: 2022-08
+        end_date: 2023-01
+        location: Guadalajara, Jalisco
+        summary:
+        highlights:
+          - Apoyé en desarrollo de aplicaciones móviles NoCode usando herramientas como FlutterFlow.
+          - Participé en la toma de decisiones en cuanto a arquitectura y diseños de páginas web.
+          - Mantenimiento a sistemas existentes usando Flutter.
+    educacion:
+      - institution: Instituto Tecnológico de Toluca
+        area: Ingeniería en Tecnologías de la Información y Comunicaciones
+        degree: Licenciatura
+        date:
+        start_date: 2019-08
+        end_date: 2024-12
+        location: Metepec, Estado de México
+        summary:
+        highlights:
+          - Titulado
+      - institution: CBTis 161 "Ignacio López Rayón"
+        area: Técnico en Informática
+        degree: Técnico
+        date:
+        start_date: 2016-08
+        end_date: 2019-08
+        location: San Pablo Autopan, Estado de México
+        summary:
+        highlights:
+    habilidades:
+      - label: Fundamentos Técnicos
+        details: Nociones de Seguridad de la Información, Protocolos de Internet (HTTP/S, DNS, Direccionamiento IP), Búsqueda de información (OSINT), Inspección de tráfico web
+      - label: Competencias Profesionales
+        details: Análisis de datos e información, Redacción de informes y reportes técnicos, Rigurosidad y atención al detalle, Comunicación asertiva
+      - label: Entornos & Herramientas
+        details: Linux CLI (Básico), Windows, PostgreSQL, MySQL, JavaScript, Python (Básico/Scripting), Git, DBeaver, Jira
+      - label: Idiomas
+        details: Español (Nativo), Inglés A2 (Lectura técnica)
+
+design:
+  theme: sb2nov
+
+locale:
+  language: spanish
+  phrases:
+    degree_with_area: DEGREE en AREA
+
+settings:
+  current_date: today
+  pdf_title: Ernesto Becerril Domínguez - CV Ciberinteligencia Jr

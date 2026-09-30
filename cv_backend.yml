@@ -1,116 +1,102 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
-  name: Ernesto Becerril Domínguez #[cite: 2]
-  headline: Ingeniero de Software Backend | Java & Spring Boot #[cite: 2]
-  location: Estado de México, Toluca #[cite: 2]
-  email: ernestbecedom@gmail.com #[cite: 2]
+  name: Ernesto Becerril Domínguez
+  headline: Ingeniero de Software Full-Stack | Node.js & React.js
+  location: Estado de México, Toluca
+  email: ernestbecedom@gmail.com
   photo:
-  phone: "+52 729 228 40 31" #[cite: 2]
+  phone: "+52 729 228 40 31"
   website:
   social_networks:
     - network: LinkedIn
-      username: ernesto-becerril-dominguez #[cite: 2]
+      username: ernesto-becerril-dominguez
   custom_connections:
   sections:
     resumen:
-      - Desarrollador de software con experiencia en el desarrollo de aplicaciones web, enfocado en el desarrollo backend con experiencia práctica construyendo e integrando APIs RESTful y lógica de negocio con Java, Spring Boot, Hibernate y Node.js. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB) y control de versiones con Git y Bitbucket. Certificado como Scrum Developer, con experiencia en metodologías ágiles orientadas a la entrega continua de valor. Egresado de la carrera de Ingeniería en Tecnologías de la Información y Comunicación. #[cite: 2]
+      - Ingeniero de Software con experiencia en el desarrollo de aplicaciones web, enfocado en desarrollo Full-Stack utilizando Node.js y React.js. Experiencia sólida construyendo e integrando APIs RESTful, arquitectura modular e interfaces dinámicas y responsivas con JavaScript, TypeScript y Tailwind CSS. Dominio en gestión de bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB), control de versiones con Git/Bitbucket y despliegue de aplicaciones en servidores Linux (NGINX, Digital Ocean, PM2). Certificado como Scrum Developer y orientado a la entrega de código limpio y seguro.
     experiencia:
-      - company: SYE Software #[cite: 2]
-        position: Ingeniero de Software #[cite: 2]
+      - company: SYE Software
+        position: Ingeniero de Software Full-Stack
         date:
-        start_date: 2026-01 #[cite: 2]
-        end_date: present #[cite: 2]
-        location: Ciudad de México #[cite: 2]
+        start_date: 2026-01
+        end_date: present
+        location: Ciudad de México
         summary:
         highlights:
-          - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, TypeScript, React, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad. #[cite: 2]
-          - Colaboración en la integración con servicios backend, aplicando conocimientos en Java, Spring Boot, Hibernate y PostgreSQL, apoyando en la construcción y consumo de APIs RESTful y en la gestión de datos. #[cite: 2]
-          - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3. #[cite: 2]
-          - Implementación de componentes reutilizables y mantenimiento de arquitectura frontend escalable. #[cite: 2]
-          - Integración de servicios backend mediante consumo de APIs REST. #[cite: 2]
-          - Apoyo en el desarrollo backend con Java (Spring Boot) para la creación de endpoints y lógica de negocio. #[cite: 2]
-          - Manejo de persistencia de datos con Hibernate (JPA) y consultas en PostgreSQL. #[cite: 2]
-          - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira. #[cite: 2]
-      - company: Softtek #[cite: 2]
-        position: Ingeniero de Software (CELLS) #[cite: 2]
+          - Desarrollo full-stack de aplicaciones web utilizando JavaScript, TypeScript, React, HTML y CSS, asegurando alto rendimiento y calidad de código.
+          - Integración con servicios backend mediante la construcción y consumo de APIs RESTful para la gestión eficiente de datos.
+          - Desarrollo de interfaces dinámicas, modulares y responsivas con React.js, HTML5 y CSS3 priorizando la experiencia de usuario.
+          - Manejo de persistencia de datos y consultas en PostgreSQL.
+          - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
+      - company: Radaria Run
+        position: Ingeniero de Software Full-Stack
         date:
-        start_date: 2025-08 #[cite: 2]
-        end_date: 2025-11 #[cite: 2]
-        location: Ciudad de México #[cite: 2]
+        start_date: 2024-07
+        end_date: 2025-04
+        location: Ciudad de México
         summary:
         highlights:
-          - Formación en Cells, enfocada en el desarrollo de habilidades técnicas sobre este framework y el dominio de diversas tecnologías Front-end. Incluyó programación de elementos y web components utilizando LitElement. #[cite: 2]
-          - Implementación de componentes web mediante paquetería LitElement. #[cite: 2]
-          - Inserción de tablas y listas de manera ordenada en HTML. #[cite: 2]
-          - Creación de barra de navegación mediante hipervínculos. #[cite: 2]
-          - Inserción de audio, video e imágenes. #[cite: 2]
-          - Inserción de scripts; generación de expresiones regulares y funciones. #[cite: 2]
-          - Estructura de una página web y generación de una página web responsiva. #[cite: 2]
-          - Inserción de estilos y generación de gráficos mediante el uso de CSS. #[cite: 2]
-          - Programación orientada a objetos usando JavaScript. #[cite: 2]
-      - company: Radaria Run #[cite: 2]
-        position: Ingeniero de Software #[cite: 2]
+          - Desarrollo de arquitectura Back-end utilizando Node.js, optimizando la eficiencia de pagos, escalabilidad y flexibilidad del sistema para web y móvil.
+          - Creación de plataforma web frontend unificada utilizando React.js y componentes de Tailwind CSS, incluyendo integración con Mapbox.
+          - Diseñé e implementé la interfaz para la App móvil multiplataforma (iOS y Android) mediante React Native con Expo.
+          - Configuración y despliegue de servidores Linux utilizando NGINX y PM2 en Digital Ocean.
+      - company: Softtek
+        position: Ingeniero de Software (CELLS)
         date:
-        start_date: 2024-07 #[cite: 2]
-        end_date: 2025-04 #[cite: 2]
-        location: Ciudad de México #[cite: 2]
+        start_date: 2025-08
+        end_date: 2025-11
+        location: Ciudad de México
         summary:
         highlights:
-          - Desarrollé una plataforma unificada de componentes y herramientas para la gestión de usuarios y membresías enfocada en runners, facilitando la relación entre coach y runner, así como la creación de rutas personalizadas usando Mapbox y ReactJS. #[cite: 2]
-          - Apoyé en el desarrollo de Back-end usando NodeJs para el sistema Radaria, mejorando la eficiencia de pagos, flexibilidad y escalabilidad para el uso en App móvil y página web. #[cite: 2]
-          - Diseñé e implementé la interfaz para la App móvil multiplataforma para IOS y Android de Radaria mediante React Native usando expo. #[cite: 2]
-          - Desarrollé la interfaz usando componentes de Tailwind CSS. #[cite: 2]
-          - Configuré servidores Linux usando NGINX y PM2 en Digital Ocean. #[cite: 2]
-      - company: Nuclea Solutions #[cite: 2]
-        position: Ingeniero de Desarrollo #[cite: 2]
+          - Desarrollo frontend y creación de componentes web reutilizables utilizando LitElement, JavaScript y HTML/CSS responsivo.
+          - Aplicación de programación orientada a objetos (POO), funciones complejas y expresiones regulares en JavaScript.
+      - company: Nuclea Solutions
+        position: Ingeniero de Desarrollo
         date:
-        start_date: 2022-08 #[cite: 2]
-        end_date: 2023-01 #[cite: 2]
-        location: Guadalajara, Jalisco #[cite: 2]
+        start_date: 2022-08
+        end_date: 2023-01
+        location: Guadalajara, Jalisco
         summary:
         highlights:
-          - Apoyé en desarrollo de aplicaciones móviles NoCode usando herramientas como FlutterFlow. #[cite: 2]
-          - Participé en la toma de decisiones en cuanto a arquitectura y diseños de páginas web. #[cite: 2]
-          - Mantenimiento a sistemas existentes, usando como lenguaje principal Flutter. #[cite: 2]
+          - Participación en la toma de decisiones de arquitectura y diseño de páginas y aplicaciones web.
+          - Mantenimiento y optimización de sistemas existentes usando tecnologías móviles y herramientas NoCode.
     educacion:
-      - institution: Instituto Tecnológico de Toluca #[cite: 2]
-        area: Ingeniería en Tecnologías de la Información y Comunicaciones #[cite: 2]
-        degree: Licenciatura #[cite: 2]
+      - institution: Instituto Tecnológico de Toluca
+        area: Ingeniería en Tecnologías de la Información y Comunicaciones
+        degree: Licenciatura
         date:
-        start_date: 2019-08 #[cite: 2]
-        end_date: 2024-12 #[cite: 2]
-        location: Metepec, Estado de México #[cite: 2]
+        start_date: 2019-08
+        end_date: 2024-12
+        location: Metepec, Estado de México
         summary:
         highlights:
-          - Titulado #[cite: 2]
-      - institution: CBTis 161 "Ignacio López Rayón" #[cite: 2]
-        area: Técnico en Informática #[cite: 2]
-        degree: Técnico #[cite: 2]
+          - Titulado
+      - institution: CBTis 161 "Ignacio López Rayón"
+        area: Técnico en Informática
+        degree: Técnico
         date:
-        start_date: 2016-08 #[cite: 2]
-        end_date: 2019-08 #[cite: 2]
-        location: San Pablo Autopan, Estado de México #[cite: 2]
+        start_date: 2016-08
+        end_date: 2019-08
+        location: San Pablo Autopan, Estado de México
         summary:
         highlights:
     habilidades:
       - label: Lenguajes
-        details: JavaScript, Java, TypeScript, Python #[cite: 2]
-      - label: Frontend
-        details: React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components #[cite: 2]
-      - label: Bases de Datos
-        details: Mongo DB, MySQL, PostgreSQL #[cite: 2]
+        details: JavaScript (ES6+), TypeScript, Java, Python
       - label: Backend
-        details: NodeJs, Java, SpringBoot #[cite: 2]
+        details: Node.js, APIs RESTful, Java, Spring Boot
+      - label: Frontend
+        details: React.js, Next.js, LitElement, Tailwind CSS, HTML5/CSS3, Web Components
+      - label: Bases de Datos
+        details: PostgreSQL, MongoDB, MySQL
+      - label: Infraestructura & DevOps
+        details: Linux, NGINX, PM2, Digital Ocean, Git, Bitbucket, GitLab
       - label: Móvil
-        details: React Native (Expo) #[cite: 2]
-      - label: DevOps
-        details: Git, Bitbucket, NGINX, Digital Ocean, PM2 #[cite: 2]
+        details: React Native (Expo)
       - label: Metodologías
-        details: Scrum (Scrum Developer Certified), Jira #[cite: 2]
-      - label: Sistemas Operativos
-        details: Linux, Windows, MACOS #[cite: 2]
+        details: Scrum (Scrum Developer Certified), Jira
       - label: Idiomas
-        details: Español, Inglés A2 #[cite: 2]
+        details: Español (Nativo), Inglés A2
 
 design:
   theme: sb2nov
@@ -122,4 +108,4 @@ locale:
 
 settings:
   current_date: today
-  pdf_title: Ernesto Becerril Domínguez - CV Backend
+  pdf_title: Ernesto Becerril Domínguez - CV Fullstack Node React

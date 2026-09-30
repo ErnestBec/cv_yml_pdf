@@ -4,7 +4,7 @@
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Ernesto Becerril Domínguez",
-  title: "Ernesto Becerril Domínguez - CV Frontend",
+  title: "Ernesto Becerril Domínguez - CV Ciberinteligencia Jr",
   footer: context { [#emph[Ernesto Becerril Domínguez -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Última actualización Sep 2026] ],
   locale-catalog-language: "es",
@@ -81,14 +81,14 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 14,
+    day: 30,
   ),
 )
 
 
 = Ernesto Becerril Domínguez
 
-  #headline([Ingeniero de Software | Desarrollador Frontend (React.js \/ Next.js)])
+  #headline([Ingeniero en TIC | Aspirante a Analista de Ciberinteligencia Jr])
 
 #connections(
   [Estado de México, Toluca],
@@ -100,7 +100,7 @@
 
 == Resumen
 
-Desarrollador de software con experiencia en el desarrollo de aplicaciones web, especializado en soluciones Frontend modernas. Dominio de lenguajes como JavaScript y Java. Experiencia en el desarrollo de interfaces dinámicas, responsivas y de alto rendimiento utilizando React.js, Next.js, LitElement y Tailwind CSS, priorizando la experiencia de usuario y la arquitectura modular. Experiencia en integración con APIs RESTful, control de versiones (Git y Bitbucket) y gestión ágil con Jira. Certificado como Scrum Developer y egresado de Ingeniería en Tecnologías de la Información y Comunicación.
+Ingeniero en Tecnologías de la Información con trayectoria en desarrollo de software y soporte técnico básico. Cuento con conocimientos fundamentales en seguridad informática, funcionamiento de redes e Internet, así como nociones de investigación en fuentes abiertas (OSINT). Poseo pensamiento lógico-analítico, rigurosidad en la revisión de datos y facilidad para la síntesis y documentación de hallazgos. Motivado por aplicar mis bases técnicas en el monitoreo de sitios web, identificación de amenazas y análisis de ciberinteligencia.
 
 == Experiencia
 
@@ -118,17 +118,15 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
   ],
   main-column-second-row: [
-    - Participación en el desarrollo de sistemas web enfocados en soluciones frontend modernas, utilizando JavaScript, TypeScript, React, HTML y CSS, priorizando la experiencia de usuario, el rendimiento y la responsividad.
-
-    - Colaboración en la integración con servicios backend mediante consumo SOAP.
+    - Participación en el desarrollo de sistemas web con JavaScript, TypeScript, React, HTML y CSS.
 
     - Desarrollo de interfaces dinámicas y responsivas utilizando React.js, HTML5 y CSS3.
 
-    - Implementación de componentes reutilizables y mantenimiento de arquitectura frontend escalable.
+    - Integración de servicios mediante consumo de APIs REST.
 
-    - Integración de servicios backend mediante consumo de APIs REST.
+    - Consulta y manejo de datos en PostgreSQL.
 
-    - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab, Jira y Taiga.
+    - Colaboración en equipos ágiles utilizando herramientas como Git, GitLab y Jira.
 
   ],
 )
@@ -147,23 +145,13 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
   ],
   main-column-second-row: [
-    - Formación en Cells, enfocada en el desarrollo de habilidades técnicas sobre este framework y el dominio de diversas tecnologías Front-end. Incluyó programación de elementos y web components utilizando LitElement.
-
     - Implementación de componentes web mediante paquetería LitElement.
 
-    - Inserción de tablas y listas de manera ordenada en HTML.
+    - Generación de funciones y uso de expresiones regulares (Regex) en JavaScript.
 
-    - Creación de barra de navegación mediante hipervínculos.
+    - Estructura y maquetación de páginas web responsivas mediante el uso de CSS y HTML.
 
-    - Inserción de audio, video e imágenes.
-
-    - Inserción de scripts; generación de expresiones regulares y funciones.
-
-    - Estructura de una página web y generación de una página web responsiva.
-
-    - Inserción de estilos y generación de gráficos mediante el uso de CSS.
-
-    - Programación orientada a objetos usando JavaScript.
+    - Inserción de tablas, listas, audio, video e hipervínculos de manera ordenada.
 
   ],
 )
@@ -182,15 +170,38 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
   ],
   main-column-second-row: [
-    - Desarrollé una plataforma unificada de componentes y herramientas para la gestión de usuarios y membresías enfocada en runners, facilitando la relación entre coach y runner, así como la creación de rutas personalizadas usando Mapbox y ReactJS.
+    - Desarrollé una plataforma unificada para la gestión de usuarios usando ReactJS y Mapbox.
 
-    - Apoyé en el desarrollo de Back-end usando NodeJs para el sistema Radaria, mejorando la eficiencia de pagos, flexibilidad y escalabilidad para el uso en App móvil y página web.
+    - Apoyé en el desarrollo de Back-end usando NodeJs para el sistema web y móvil.
 
-    - Diseñé e implementé la interfaz para la App móvil multiplataforma para IOS y Android de Radaria mediante React Native usando expo.
+    - Diseñé e implementé la interfaz móvil para iOS y Android mediante React Native (Expo) y Tailwind CSS.
 
-    - Desarrollé la interfaz usando componentes de Tailwind CSS.
+    - Configuración básica de servidores Linux usando NGINX y PM2 en Digital Ocean.
 
-    - Configuré servidores Linux usando NGINX y PM2 en Digital Ocean.
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Auxiliar de Soporte TI]
+
+    #emph[Sistema DIF]
+
+  ],
+  [
+    #emph[Estado de México]
+
+    #emph[Feb 2023 – Ago 2023]
+
+  ],
+  main-column-second-row: [
+    - Soporte técnico de primer nivel (Help Desk) y atención a usuarios finales.
+
+    - Mantenimiento preventivo y correctivo básico de equipo de cómputo e impresoras.
+
+    - Verificación básica de conectividad a red local (LAN, pruebas de ping, conexión de periféricos).
+
+    - Instalación de software corporativo y respaldo de información de usuarios.
 
   ],
 )
@@ -213,7 +224,7 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
     - Participé en la toma de decisiones en cuanto a arquitectura y diseños de páginas web.
 
-    - Mantenimiento a sistemas existentes, usando como lenguaje principal Flutter.
+    - Mantenimiento a sistemas existentes usando Flutter.
 
   ],
 )
@@ -258,20 +269,10 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones web, 
 
 == Habilidades
 
-#strong[Lenguajes:] JavaScript, Java, TypeScript, Python
+#strong[Fundamentos Técnicos:] Nociones de Seguridad de la Información, Protocolos de Internet (HTTP\/S, DNS, Direccionamiento IP), Búsqueda de información (OSINT), Inspección de tráfico web
 
-#strong[Frontend:] React.js, Next.js, LitElement, Tailwind CSS, Figma, Web Components
+#strong[Competencias Profesionales:] Análisis de datos e información, Redacción de informes y reportes técnicos, Rigurosidad y atención al detalle, Comunicación asertiva
 
-#strong[Bases de Datos:] Mongo DB, MySQL, PostgreSQL
+#strong[Entornos & Herramientas:] Linux CLI (Básico), Windows, PostgreSQL, MySQL, JavaScript, Python (Básico\/Scripting), Git, DBeaver, Jira
 
-#strong[Backend:] NodeJs, Java, SpringBoot
-
-#strong[Móvil:] React Native (Expo)
-
-#strong[DevOps:] Git, Bitbucket, NGINX, Digital Ocean, PM2
-
-#strong[Metodologías:] Scrum (Scrum Developer Certified), Jira
-
-#strong[Sistemas Operativos:] Linux, Windows, MACOS
-
-#strong[Idiomas:] Español, Inglés A2
+#strong[Idiomas:] Español (Nativo), Inglés A2 (Lectura técnica)
